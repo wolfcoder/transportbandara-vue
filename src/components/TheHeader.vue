@@ -15,15 +15,15 @@
       <nav class="flex flex-col-reverse md:flex-row justify-between mt-8 md:mt-10 leading-6 gap-y-4 md:px-4 ">
         <ul class="flex md:gap-6 flex-col md:flex-row">
           <li class="hidden md:block"><h1 class="text-brandPrimary font-Inter font-extrabold">TransportBandara</h1></li>
-          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0"><span>Rental Mobil</span>
+          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0 hover:underline hover:text-brandPrimary"><span>Rental Mobil</span>
             <svg class="stroke-gray-400 md:hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M9 5L16 12L9 19"   stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
           </a></li>
-          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0"><span>Tour & Travel</span> <svg class="stroke-gray-400 md:hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0 hover:underline hover:text-brandPrimary"><span>Tour & Travel</span> <svg class="stroke-gray-400 md:hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M9 5L16 12L9 19"   stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg></a></li>
-          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0"><span>Airport Transfer</span> <svg class="stroke-gray-400 md:hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <li><a href="#" class="text-gray-500 flex gap-3 justify-between py-2 md:py-0 px-4 md:px-0 hover:underline hover:text-brandPrimary"><span>Airport Transfer</span> <svg class="stroke-gray-400 md:hidden" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M9 5L16 12L9 19"   stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg></a></li>
         </ul>
