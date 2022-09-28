@@ -7,16 +7,16 @@
     </p>
             <ul>
                 <li class="group border-brandPrimary border-b  hover:border-b hover:border-white"><a class=" text-white inline-flex gap-3 cursor-pointer py-2 ">
-                <img  class="" src="icons/carbon_location-filled.svg" alt="Lo:"/>
+                <img  class="" src="../../public/icons/carbon_location-filled.svg" alt="Lo:"/>
     <span>Jl. Srikandi No 201 , Blabatuh, Kota Gianyar, Bali 80581</span></a></li>
     <li class="group border-brandPrimary border-b hover:border-b hover:border-white"><a class=" text-white inline-flex gap-3 cursor-pointer py-2">
-                <img  class="" src="icons/ci_phone.svg" alt="Te:"/>
+                <img  class="" src="../../public/icons/ci_phone.svg" alt="Te:"/>
     <span>+62-889-9999-7055</span></a></li>
     <li class="group border-brandPrimary border-b hover:border-b hover:border-white"><a class=" text-white inline-flex gap-3 cursor-pointer py-2">
-                <img  class="" src="icons/bxl_whatsapp.svg" alt="Wh:"/>
+                <img  class="" src="../../public/icons/bxl_whatsapp.svg" alt="Wh:"/>
     <span>+62-889-9999-7055</span></a></li>
     <li class="group border-brandPrimary border-b hover:border-b hover:border-white"><a class=" text-white inline-flex gap-3 cursor-pointer py-2">
-                <img  class="" src="icons/bi_line.svg" alt="Li:"/>
+                <img  class="" src="../../public/icons/bi_line.svg" alt="Li:"/>
     <span>speed70</span></a></li>
             </ul>
         </div>

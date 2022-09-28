@@ -172,7 +172,7 @@
       <!-- End testimoni person-->
     </div>
     <div class="hero-image mt-6 md:mt-6">
-      <img src="images/hero-image.png" alt="liburan di bali"/>
+      <img src="../../public/images/hero-image.png" alt="liburan di bali"/>
     </div>
   </section>
 </template>
