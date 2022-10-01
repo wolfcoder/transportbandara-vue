@@ -1,12 +1,12 @@
 <template>
    <Hero01/>
-   <!-- <AirportTransfer/> -->
+   <AirportTransfer/>
    <WorkWith01/>
    <Benefit01/>
    <CategoryProduct01/>
    <CategoryProduct02/>
    <Testimony01/>
-   <TheFooter/>
+   
 </template>
 
 <script>

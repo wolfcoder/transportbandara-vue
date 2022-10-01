@@ -21,22 +21,37 @@
             </ul>
         </div>
         <div class="grid grid-cols-2 md:grid-cols-3 gap-8 w-full">
-            <div v-for="index in 3" :key="index">
+            <div>
+                <h3 class="font-inter mb-6 text-lg font-semibold">Syarat dan Ketentuan</h3>
+                <ul>
+                    <li><a href="/index" class=" text-white inline-flex gap-3 cursor-pointer pb-2 hover:underline ">
+                
+        <span>Sewa Mobil Lepas Kunci</span></a></li>
+        <li><a href="/index" class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
+                
+        <span>Sewa Mobil Dengan Driver</span></a></li>
+        <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
+                
+        <span>Paket Tour & Travel</span></a></li>
+ 
+                </ul>
+            </div>
+            <div v-for="index in 2" :key="index">
                 <h3 class="font-inter mb-6 text-lg font-semibold">Rental Mobil</h3>
-            <ul>
-                <li><a class=" text-white inline-flex gap-3 cursor-pointer pb-2 hover:underline ">
-               
-    <span>Rental City Car</span></a></li>
-    <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
-             
-    <span>Rental MPV Car</span></a></li>
-    <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
-              
-    <span>Rental SUV Car</span></a></li>
-    <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
-               
-    <span>Rental Mini Bus</span></a></li>
-            </ul>
+                <ul>
+                    <li><a class=" text-white inline-flex gap-3 cursor-pointer pb-2 hover:underline ">
+                
+        <span>Rental City Car</span></a></li>
+        <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
+                
+        <span>Rental MPV Car</span></a></li>
+        <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
+                
+        <span>Rental SUV Car</span></a></li>
+        <li><a class=" text-white inline-flex gap-3 cursor-pointer py-2 hover:underline ">
+                
+        <span>Rental Mini Bus</span></a></li>
+                </ul>
             </div>
           
         </div>
