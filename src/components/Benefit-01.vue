@@ -9,7 +9,7 @@
 </svg>
                 </div>
                 <h3 class="font-semibold text-2xl py-2">Banyak Destinasi</h3>
-<p class="py-1 text-gray-400">Total 100+ tempat destinasi kami telah kami ulas dan kunjungi</p>
+<p class="py-1 text-gray-400 px-4">Total 100+ tempat destinasi kami telah kami ulas dan kunjungi</p>
             </li>
             <li>
                 <div class="h-16 w-16 bg-brandSecondary rounded-full inline-flex items-center justify-center my-1">
@@ -19,7 +19,7 @@
 
                 </div>
                 <h3 class="font-semibold text-2xl py-2">Pelayanan Cepat</h3>
-<p class="py-1 text-gray-400">Proses dari memesan hingga pembayaran yang cepat</p>
+<p class="py-1 text-gray-400 px-4">Proses dari memesan hingga pembayaran yang cepat</p>
             </li>
             <li>
                 <div class="h-16 w-16 bg-brandTertiary rounded-full inline-flex items-center justify-center my-1">
@@ -30,7 +30,7 @@
 
                 </div>
                 <h3 class="font-semibold text-2xl py-2">Guide Terbaik</h3>
-<p class="py-1 text-gray-400">Guide kami adalah orang-orang yang terbaik dibidangnya</p>
+<p class="py-1 text-gray-400 px-4">Guide kami adalah orang-orang yang terbaik dibidangnya</p>
             </li>
          </ul>
       
