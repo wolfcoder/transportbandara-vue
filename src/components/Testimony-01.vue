@@ -1,7 +1,7 @@
 <template>
     <section id="testimony-01" class=" max-w-6xl mx-auto  py-8 md:my-16 lg:my-24 text-center ">
         <div class="bg-brandTertiary text-white py-1 px-5 rounded-full inline-block text-sm mb-3">Testimoni</div>
-            <h2 class="text-4xl font-semibold text-gray-800 mb-6 md:mb-5">Disukai Oleh Banyak Pelanggan</h2>
+            <h2 class="text-2xl md:text-4xl font-semibold text-gray-800 mb-6 md:mb-5">Disukai Oleh Banyak Pelanggan</h2>
             <p class="mb-12 max-w-4xl mx-auto text-gray-400 px-4 md:px-0">
                 Lebih dari 100 Pelanggan kami tiap tahun liburan di Bali bersama Transportbandara, datang dari berbagai kota  di Indonesia dan bahkan manca negara, tamu dari Australia yang sering banyak datang mengunjungi Bali, mereka liburan selalu bersama kami. Selanjutnya mungkin Anda?            </p>
  
