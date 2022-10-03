@@ -8,7 +8,7 @@ body,
 html {
     font-family: "Poppins", Source Serif Pro, serif;
     @apply text-gray-800;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 @media (min-width: 640px) {
