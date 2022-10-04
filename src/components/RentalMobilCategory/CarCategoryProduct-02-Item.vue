@@ -9,7 +9,7 @@
           Rental Mobil Honda Brio
         </h3>
         <div class="text-left font-semibold">
-          <div class="flex py-2 bg-[#F9FAFB]">
+          <div class="flex p-2 bg-[#F9FAFB]">
             <p class="w-1/2">Rating</p>
             <p class="w-1/2 pt-1">
               <span>
@@ -64,23 +64,23 @@
               </span>
             </p>
           </div>
-          <div class="flex py-2">
+          <div class="flex p-2">
             <p class="w-1/2">Tahun</p>
             <p class="w-1/2">2015 - 2017</p>
           </div>
-          <div class="flex py-2 bg-[#F9FAFB]">
+          <div class="flex p-2 bg-[#F9FAFB]">
             <p class="w-1/2">T Manual</p>
             <p class="w-1/2">Rp. 250.000</p>
           </div>
-          <div class="flex py-2">
+          <div class="flex p-2">
             <p class="w-1/2">T Automatic</p>
             <p class="w-1/2">Rp. 300.000</p>
           </div>
-          <div class="flex py-2 bg-[#F9FAFB]">
+          <div class="flex p-2 bg-[#F9FAFB]">
             <p class="w-1/2">Kapasitas</p>
             <p class="w-1/2">5 Penumpang</p>
           </div>
-          <div class="flex py-2">
+          <div class="flex p-2">
             <p class="w-1/2">Driver & BBM</p>
             <p class="w-1/2">Rp.500.000</p>
           </div>
@@ -90,7 +90,7 @@
             bg-brandWhatsApp
             rounded-full
             inline-flex
-            py-2
+            p-2
             px-4
             gap-2
             text-white
