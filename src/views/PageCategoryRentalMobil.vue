@@ -1,5 +1,24 @@
 <template>
-    <section>
-        <h1>Rental Mobil</h1>
-    </section>
-</template>
+    <HeroCar />
+    <CarCategoryProduct01 />
+    <CarCategoryProduct02 />
+    <CarCategoryProduct03 />
+  </template>
+   
+   <script>
+  import HeroCar from "../components/RentalMobilCategory/Hero-01.vue";
+  import CarCategoryProduct01 from "../components/RentalMobilCategory/CarCategoryProduct-01.vue";
+  import CarCategoryProduct02 from "../components/RentalMobilCategory/CarCategoryProduct-02.vue";
+  import CarCategoryProduct03 from "../components/RentalMobilCategory/CarCategoryProduct-03.vue";
+  
+  export default {
+    name: "RentalMobilCategory",
+    components: {
+      HeroCar,
+      CarCategoryProduct01,
+      CarCategoryProduct02,
+      CarCategoryProduct03,
+    },
+  };
+  </script>
+    
