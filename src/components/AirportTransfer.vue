@@ -3,8 +3,7 @@
     class="airport-transfer max-w-6xl mx-auto py-8 md:py-16 lg:py-24"
   >
     <h2
-      class="underline uppercase text-gray-800 mb-4 md:pl-0 pl-4 tracking-wider"
-    >
+      class="underline uppercase text-gray-800 mb-4 md:pl-0 pl-4 tracking-wider"> 
       Airport Transfer
     </h2>
     <div class="bg-gray-100 p-5 rounded-lg">
