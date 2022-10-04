@@ -1,20 +1,11 @@
 <template>
   <section class="max-w-6xl mx-auto py-8 md:my-16 lg:my-24 text-center">
     <div
-      class="
-        bg-brandSecondary
-        text-white
-        py-1
-        px-5
-        rounded-full
-        inline-block
-        text-sm
-        mb-3
-      "
+      class="bg-brandSecondary text-white py-1 px-5 rounded-full inline-block text-sm mb-3"
     >
       Tour Tempat Wisata
     </div>
-    <h2 class="text-4xl font-semibold text-gray-800 mb-6 md:mb-5">
+    <h2 class="text-2xl md:text-4xl font-semibold text-gray-800 mb-6 md:mb-5">
       Bingung di Bali mau kemana dan ngapain aja?
     </h2>
     <p class="mb-12 max-w-4xl mx-auto text-gray-400 px-4 md:px-0">
@@ -28,12 +19,11 @@
     </ul>
   </section>
 </template>
-  
-  <script>
-import TourCategoryProduct02Item from "./TourCategoryProduct-02-item.vue";
+
+<script>
+import TourCategoryProduct02Item from './TourCategoryProduct-02-item.vue';
 export default {
-  name: "TourPage",
+  name: 'TourPage',
   components: { TourCategoryProduct02Item },
 };
 </script>
-  
