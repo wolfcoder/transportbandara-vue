@@ -14,7 +14,7 @@
       pengalaman liburan yang mengasyikan, tapi ingat jaga selalu keselamatan.
     </p>
     <ul class="grid grid-cols-1 sm:grid-cols-3 mx-auto gap-12 px-4 md:px-0">
-      <CarCategoryProduct03Item />
+      <CarCategoryProduct03Item v-for="index in 3" :key="index" />
     </ul>
   </section>
 </template>
