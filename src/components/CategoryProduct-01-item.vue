@@ -1,7 +1,7 @@
 <template>
-     <li class="rounded-lg bg-white p-4 drop-shadow-lg"> 
+     <li class="rounded-lg bg-white p-4 drop-shadow-lg w-[240px] md:w-[340px] h-auto"> 
                 <img class="mx-auto h-auto w-full md:w-80 rounded-lg " src="../../public/images/expander.png" alt=""> 
-                <h3 class="my-5 font-medium text-lg text-left">Rental Mobil Mitsubishi Expander</h3>
+                <h3 class="my-5 font-medium text-base md:text-lg text-left">Rental Mobil Mitsubishi Expander</h3>
                 <span>
                     <svg width="93" height="17" viewBox="0 0 93 17" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M7.57057 0.405201C7.51203 0.288315 7.41276 0.187508 7.28167 0.124427C6.96668 -0.0264736 6.58488 0.0990707 6.42961 0.405201L4.61093 3.98538L0.544051 4.56362C0.411691 4.58156 0.282513 4.64217 0.180698 4.74359C-0.0649311 4.9885 -0.0592039 5.37997 0.192152 5.61807L3.13398 8.40293L2.43972 12.3375C2.41681 12.4655 2.4359 12.604 2.50399 12.7296C2.66753 13.032 3.05252 13.1483 3.3637 12.9893L6.99977 11.1309L10.6365 12.9893C10.7548 13.0505 10.8961 13.0753 11.0399 13.0518C11.3861 12.9943 11.619 12.6745 11.5598 12.3375L10.8656 8.40293L13.8074 5.61807C13.9035 5.52778 13.9722 5.40533 13.9932 5.26432C14.0441 4.92665 13.8036 4.61248 13.4555 4.56301L9.38925 3.98538L7.57057 0.405201Z" fill="#ECC92A"/>
@@ -16,9 +16,9 @@
 <path d="M83.5706 0.405201C83.512 0.288315 83.4128 0.187508 83.2817 0.124427C82.9667 -0.0264736 82.5849 0.0990707 82.4296 0.405201L80.6109 3.98538L76.5441 4.56362C76.4117 4.58156 76.2825 4.64217 76.1807 4.74359C75.9351 4.9885 75.9408 5.37997 76.1922 5.61807L79.134 8.40293L78.4397 12.3375C78.4168 12.4655 78.4359 12.604 78.504 12.7296C78.6675 13.032 79.0525 13.1483 79.3637 12.9893L82.9998 11.1309L86.6365 12.9893C86.7548 13.0505 86.8961 13.0753 87.0399 13.0518C87.3861 12.9943 87.619 12.6745 87.5598 12.3375L86.8656 8.40293L89.8074 5.61807C89.9035 5.52778 89.9722 5.40533 89.9932 5.26432C90.0441 4.92665 89.8036 4.61248 89.4555 4.56301L85.3892 3.98538L83.5706 0.405201Z" fill="#ECC92A"/>
 </svg>
                 </span>
-                <h4 class="text-left my-5 text-gray-400">
-                    <span class="line-through text-lg mr-1">Rp550.000</span>
-                    <span class="font-medium text-xl text-gray-900">Rp350.000 </span>/hari
+                <h4 class="text-left my-5 text-gray-400 text-sm">
+                    <span class="line-through text-base md:text-lg mr-1">Rp550.000</span>
+                    <span class="font-medium text-lg md:text-xl text-gray-900">Rp350.000 </span>/hari
                 </h4>
                 <a class="bg-brandWhatsApp rounded-full inline-flex items-center py-2 px-4 gap-2 text-white w-full justify-center hover:bg-green-500" href="#">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
