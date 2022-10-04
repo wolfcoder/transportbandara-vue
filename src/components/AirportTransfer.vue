@@ -1,6 +1,5 @@
 <template>
-  <section
-    id="airport-transfer"
+  <section id="airport-transfer"
     class="airport-transfer max-w-6xl mx-auto py-8 md:py-16 lg:py-24"
   >
     <h2
