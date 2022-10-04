@@ -1,16 +1,7 @@
 <template>
   <section class="max-w-6xl mx-auto py-8 md:my-16 lg:my-24 text-center">
     <div
-      class="
-        bg-brandSecondary
-        text-white
-        py-1
-        px-5
-        rounded-full
-        inline-block
-        text-sm
-        mb-3
-      "
+      class="bg-brandSecondary text-white py-1 px-5 rounded-full inline-block text-sm mb-3"
     >
       MPV
     </div>
@@ -29,9 +20,9 @@
 </template>
 
 <script>
-import CarCategoryProduct02Item from "./CarCategoryProduct-02-Item.vue";
+import CarCategoryProduct02Item from './CarCategoryProduct-02-Item.vue';
 export default {
-  name: "CarPage",
+  name: 'CarPage',
   components: { CarCategoryProduct02Item },
 };
 </script>
