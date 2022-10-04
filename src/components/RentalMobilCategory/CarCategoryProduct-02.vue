@@ -5,7 +5,7 @@
     >
       MPV
     </div>
-    <h2 class="text-4xl font-semibold text-gray-800 mb-6 md:mb-5">
+    <h2 class="text-2xl md:text-4xl font-semibold text-gray-800 mb-6 md:mb-5">
       Pilih mobil yang sesuai dengan kebutuhanmu
     </h2>
     <p class="mb-12 max-w-4xl mx-auto text-gray-400 px-4 md:px-0">
