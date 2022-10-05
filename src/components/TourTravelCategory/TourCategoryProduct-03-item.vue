@@ -1,16 +1,9 @@
 <template>
-  <li class="rounded-lg bg-white p-4 drop-shadow-lg">
+  <li
+    class="rounded-lg bg-white p-4 drop-shadow-lg w-[240px] md:w-[340px] h-auto"
+  >
     <img
-      class="
-        mx-auto
-        h-auto
-        w-full
-        md:w-80
-        rounded-lg
-        min-h-[250px]
-        max-h-4
-        object-cover
-      "
+      class="mx-auto h-auto w-full md:w-80 rounded-lg min-h-[250px] max-h-4 object-cover"
       src="../../../public/images/tour-bali-zoo.png"
       alt=""
     />
@@ -83,18 +76,7 @@
       </div>
     </div>
     <a
-      class="
-        bg-brandWhatsApp
-        rounded-full
-        inline-flex
-        p-2
-        px-4
-        gap-2
-        text-white
-        w-full
-        justify-center
-        hover:bg-green-500
-      "
+      class="bg-brandWhatsApp rounded-full inline-flex p-2 px-4 gap-2 text-white w-full justify-center hover:bg-green-500"
       href="#"
     >
       <svg

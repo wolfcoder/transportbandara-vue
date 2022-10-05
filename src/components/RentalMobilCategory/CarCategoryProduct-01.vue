@@ -13,9 +13,13 @@
       satu per satu yang kamu mau, berkendara di Bali tentu saja akan memberikan
       pengalaman liburan yang mengasyikan, tapi ingat jaga selalu keselamatan.
     </p>
-    <ul class="grid grid-cols-1 sm:grid-cols-3 mx-auto gap-12 px-4 md:px-0">
-      <CarCategoryProduct01Item v-for="index in 3" :key="index" />
-    </ul>
+    <div class="relative w-full overflow-x-auto pb-4">
+      <ul
+        class="inline-flex mx-auto px-4 md:px-0 space-x-8 sm:mx-6 lg:grid lg:grid-cols-3 lg:gap-x-8 lg:space-x-0"
+      >
+        <CarCategoryProduct01Item v-for="index in 3" :key="index" />
+      </ul>
+    </div>
   </section>
 </template>
 
