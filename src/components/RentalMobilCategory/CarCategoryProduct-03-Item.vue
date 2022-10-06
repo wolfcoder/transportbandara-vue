@@ -1,5 +1,7 @@
 <template>
-  <li class="rounded-lg bg-white p-4 drop-shadow-lg">
+  <li
+    class="rounded-lg bg-white p-4 drop-shadow-lg w-[240px] md:w-[340px] h-auto"
+  >
     <img
       class="mx-auto h-auto w-full md:w-80 rounded-lg"
       src="../../../public/images/toyota.png"
