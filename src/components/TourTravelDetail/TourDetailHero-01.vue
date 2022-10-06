@@ -1,6 +1,6 @@
 <template>
   <section class="bg-[url('../images/pura-pic.png')] bg-cover pt-40 md:pt-80 md:md:my-16">
-    <div class="mx-auto flex justify-between flex-col lg:flex-row">
+    <div class="mx-auto flex justify-between flex-col lg:flex-row max-w-7xl">
       <div
         class="
           hero-text
@@ -10,7 +10,6 @@
           flex flex-col
           gap-6
           py-10
-          lg:pl-32
         "
       >
         <p class="text-white text-3xl font-medium">Paket Tour Bedugul</p>

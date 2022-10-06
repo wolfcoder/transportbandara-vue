@@ -1,5 +1,5 @@
 <template>
-  <section class="lg:px-32 px-4 py-5">
+  <section class="mx-auto px-4 py-5 max-w-7xl">
     <p class="font-semibold">
       Syarat dan Ketentuan Pemesanan Sewa Mobil Matic Dengan Driver
     </p>

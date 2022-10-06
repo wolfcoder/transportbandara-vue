@@ -1,7 +1,18 @@
 <template>
   <TourDetailHero />
 
-  <section class="grid grid-cols-12 lg:px-32 px-4">
+  <section
+    class="
+      grid grid-cols-12
+      px-4
+      mx-auto
+      flex
+      justify-between
+      flex-col
+      lg:flex-row
+      max-w-7xl
+    "
+  >
     <TourDetailDesc />
     <section class="col-span-12 md:col-span-4">
       <TourDetailPacket />
