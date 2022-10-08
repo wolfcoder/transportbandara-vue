@@ -18,6 +18,17 @@ html {
     }
 }
 
+p {
+  @apply mb-3
+}
+
+ol {
+  @apply list-decimal;
+}
+
+li {
+  @apply mb-3
+}
 
 /* style scrollbar */
 ::-webkit-scrollbar {
