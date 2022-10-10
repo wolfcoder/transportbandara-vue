@@ -1,6 +1,10 @@
 <template>
+    <section class="pt-20 md:pt-32 pb-16 bg-black relative h-screen">
+        <div style="background-image: url('../images/airport-1920x1080.jpg');" class="bg-cover absolute top-0 bottom-0 left-0 right-0 opacity-30"></div>
+        <AirportTransfer/>
+    </section>
+   
    <Hero01/>
-   <AirportTransfer/>
    <WorkWith01/>
    <Benefit01/>
    <CategoryProduct01/>

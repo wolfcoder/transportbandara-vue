@@ -1,5 +1,5 @@
 <template>
-  <section class="hero-01 max-w-7xl mx-auto flex justify-between py-8 md:py-16 lg:py-24 flex-col md:flex-row">
+  <section class="hero-01 max-w-7xl mx-auto flex justify-between py-16 md:py-16 lg:py-24 flex-col md:flex-row">
     <div class="hero-text px-4 w-full md:w-1/2 flex flex-col gap-6">
       <div class="flex flex-row items-center">
         <svg class="h-3 md:h-4 w-auto" width="109" height="16" viewBox="0 0 109 16" fill="none"

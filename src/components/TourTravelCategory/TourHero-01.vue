@@ -2,7 +2,7 @@
     <section
       class="
         bg-[#1B96BC]
-        md:my-16
+        md:mb-16
         md:undefined
         md:bg-[linear-gradient(90deg,_#1B96BC_75%,_#AFD7E3.100%)]
       "
